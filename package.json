@@ -1,0 +1,29 @@
+{
+  "name": "ebay-parser",
+  "version": "1.0.3",
+  "description": "A lib for parsing a list of ebay items",
+  "main": "main.js",
+  "author": "Maxim Zhukov <maxim.zhukov.dev@gmail.com>",
+  "license": "ISC",  
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "node-html-parser": "^5.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FSou1/ebay-parser.git"
+  },
+  "keywords": [
+    "ebay",
+    "parser"
+  ],
+  "bugs": {
+    "url": "https://github.com/FSou1/ebay-parser/issues"
+  },
+  "homepage": "https://github.com/FSou1/ebay-parser#readme"
+}
