@@ -1,6 +1,6 @@
 {
   "name": "ebay-parser",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A lib for parsing a list of ebay items",
   "main": "main.js",
   "author": "Maxim Zhukov <maxim.zhukov.dev@gmail.com>",
